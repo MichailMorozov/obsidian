@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "22719e10e2ef9362",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d00a9b9032cf37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8625dffa5463de7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Box/Регистры CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4962d1b9014d059c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Box/Архитектурные принципы фон Неймана.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbb8f1e7da9c6be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "154e95234eff0315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3d37734c483a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "835d736c13fbc6f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3f88f410e1b475f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e3f8972be1a1aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c95992404fd5bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cd40e102800afd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Box/Регистры CPU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dfb498247bc1f29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Box/Регистры CPU.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db97331eaf12e5f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f674c0138b25a9dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Box/Регистры CPU.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e3d37734c483a39",
+  "lastOpenFiles": [
+    "Box/Control flow - поток управления.md",
+    "Box/Programming concepts.md",
+    "Box/Subroutine, подпрограмма.md",
+    "Box/Регистры CPU.md",
+    "Box/CPU.md",
+    "Box/Указатель инструкций, счётчик команд(служебный регистр).md",
+    "Box/Команды перехода, переход, передача управления на другой участок машинного кода.md",
+    "Box/RAM.md",
+    "Box/Служебные регистры.md",
+    "Box/Условное ветвление.md",
+    "Box/Цикл обработки команд(cpu).md",
+    "Box/Регистры общего назначения.md",
+    "Box/Assembly languages.md",
+    "Box/Синтаксисы языка Ассемблера.md",
+    "Box/Архитектурные принципы фон Неймана.md",
+    "Box/Memory cell - ячейка памяти.md",
+    "Box/Адреса ячеек памяти.md",
+    "Box/001 Computer science.md",
+    "Box/Cheatnotes CS.md",
+    "Box/Запуск NASM-C-PYthon cheatnote.md",
+    "Box/Operating systems.md",
+    "Box/Linux.md",
+    "Box/Дать права sudo пользователю.md",
+    "Box/Programming.md",
+    "Box/Programming languages.md",
+    "Attachments/Pasted image 20240129223957.png",
+    "Box/000 Index.md",
+    "Attachments/Pasted image 20240127193907.png",
+    "Attachments/Pasted image 20240127193816.png",
+    "Attachments/Pasted image 20240127162755.png",
+    "Attachments/Pasted image 20240127162022.png",
+    "Box/Attachments/Pasted image 20240127161919.png",
+    "Box/Attachments",
+    "Canvases",
+    "Attachments",
+    "Template",
+    "Box"
+  ]
+}
