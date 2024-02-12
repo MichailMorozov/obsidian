@@ -2,3 +2,4 @@
 ###### links: [[Programming]]
 ___
 - [[PHP]]
+- [[JavaScript]]
